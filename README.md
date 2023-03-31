@@ -1,4 +1,4 @@
-# C-Shop-Project
+# C++-Shop-Project
 This is a shop project built using c++
 
 This project has the following functionalities a user can choose from:
