@@ -1,7 +1,7 @@
 # C++-Shop-Project
-This is a shop project built using c++
+This is a school project built using c++. I just uploaded it to github to show that "Yes, I do know C++ somewhat akshually!"
 
-This project has the following functionalities a user can choose from:
+For this project, the following actions can be performed for inventory management of a shop.
 
 1. Add item
 2. Remove item
